@@ -1,0 +1,36 @@
+.product{
+    display: flex;
+    border-bottom: 2px solid lightgray;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+div img{
+    width: 300px;
+    display: inline;
+    border-radius:10px;
+}
+.class{
+    font-weight: 700;
+}
+.product-name{
+    padding: 15px;
+}
+.description{
+    display: flex;
+    color: darkgrey;
+    font-size: 19px;
+}
+.add-button{
+    background-color: cadetblue;
+    width: 200px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.vdecs{
+    
+}
+.enroll{
+    margin-left: 250px;
+}
