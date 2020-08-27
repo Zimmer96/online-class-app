@@ -106,7 +106,7 @@ var onlineClass = [
       "enroll": "11,208 ",
       "vdesc":"36 hours on-demand video",
       "seller":"Glenna ReichertJonas Schmedtmann",
-      "price": "$24",
+      "price": 24,
       "img":"https://img-a.udemycdn.com/course/750x422/1202164_a558_3.jpg",
       },
       {
